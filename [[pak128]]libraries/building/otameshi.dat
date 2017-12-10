@@ -1,0 +1,10 @@
+Obj=building
+Name=japanese_traditional_hotel
+copyright=Takamaro
+# type=res|com|ind
+type=com
+chance=100
+Level=10
+intro_year=1925
+retire_year=1982
+BackImage[0][0][0][0][0]=otameshi_ryokan_combined.0.0

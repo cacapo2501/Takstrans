@@ -1,0 +1,32 @@
+#
+# File created with TileCutter version 0.3d.1
+# For more information see http://simutrans.entropy.me.uk/tilecutter/
+#
+Obj=factory
+name=Kohlegrube
+copyright=raven/yoshi
+intro_year=1850
+retire_year=9999
+level=10   
+needs_ground=1
+Location=Land
+chance=100
+Productivity=100  
+Range=5    
+MapColor=36
+InputGood[0]=Holz
+InputCapacity[0]=50 
+InputFactor[0]=7 
+
+OutputGood[0]=Kohle1
+OutputCapacity[0]=500  
+OutputFactor[0]=100  
+Dims=2,2,1
+BackImage[0][0][0][0][0]=ind902_001_o.0.0
+BackImage[0][0][1][0][0]=ind902_001_o.0.1
+BackImage[0][1][0][0][0]=ind902_001_o.1.0
+BackImage[0][1][1][0][0]=ind902_001_o.1.1
+BackImage[0][0][0][1][0]=ind902_001_o.2.0
+BackImage[0][0][1][1][0]=ind902_001_o.2.1
+BackImage[0][1][0][1][0]=ind902_001_o.3.0
+--------------------

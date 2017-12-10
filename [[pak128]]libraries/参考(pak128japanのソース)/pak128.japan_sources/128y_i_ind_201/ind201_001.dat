@@ -1,0 +1,37 @@
+#
+# File created with TileCutter version 0.3d.1
+# For more information see http://simutrans.entropy.me.uk/tilecutter/
+#
+Obj=factory
+name=shuzousho
+copyright=noboru/yoshi
+intro_year=1898
+retire_year=9999
+level=5    
+climates=temperate,mediterran,tropic,tundra,rocky
+Location=City
+chance=100
+Productivity=75
+Range=1
+MapColor=166
+InputGood[0]=hakumai3
+InputCapacity[0]=150
+InputFactor[0]=10
+InputSupplier[0]=1
+OutputGood[0]=sake2
+OutputCapacity[0]=1200
+OutputFactor[0]=100
+OutputGood[1]=sake3
+OutputCapacity[1]=120   
+OutputFactor[1]=10
+Dims=3,3,1
+BackImage[0][0][0][0][0]=ind201_001.0.0
+BackImage[0][0][1][0][0]=ind201_001.0.1
+BackImage[0][0][2][0][0]=ind201_001.0.2
+BackImage[0][1][0][0][0]=ind201_001.1.0
+BackImage[0][1][1][0][0]=ind201_001.1.1
+BackImage[0][1][2][0][0]=ind201_001.1.2
+BackImage[0][2][0][0][0]=ind201_001.2.0
+BackImage[0][2][1][0][0]=ind201_001.2.1
+BackImage[0][2][2][0][0]=ind201_001.2.2
+--------------------

@@ -1,0 +1,15 @@
+Obj=building
+name=01_CITY
+copyright=yoshi
+intro_year=1800
+intro_month=1
+retire_year=2100
+retire_month=1
+level=1    
+Passengers=5
+NoInfo=0
+type=tow
+build_time=0       
+Dims=1,1,1
+BackImage[0][0][0][0][0]=yakusho.0.0
+--------------------

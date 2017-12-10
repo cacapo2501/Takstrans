@@ -1,0 +1,93 @@
+writing file TaksRealSwitchRail.pak
+   reading file ./brown_ballast_bridge.dat
+      packing bridge.[Tak_RSR]EarlyGarterBridge
+   reading file ./brown_ballast_buffer.dat
+      packing way.[Tak_RSR]brown_ballast_buffer[01SINGLE]
+      packing way.[Tak_RSR]brown_ballast_buffer[02DOUBLE][LEFT][BACK]
+      packing way.[Tak_RSR]brown_ballast_buffer[03TRIPLE][MIDDLE]
+      packing way.[Tak_RSR]brown_ballast_buffer[04DOUBLE][RIGHT][FRONT]
+      packing way.[Tak_RSR]brown_ballast_buffer[ELEVATED][01SINGLE]
+      packing way.[Tak_RSR]brown_ballast_buffer[ELEVATED][02DOUBLE][LEFT][BACK]
+      packing way.[Tak_RSR]brown_ballast_buffer[ELEVATED][03TRIPLE][MIDDLE]
+      packing way.[Tak_RSR]brown_ballast_buffer[ELEVATED][04DOUBLE][RIGHT][FRONT]
+   reading file ./brown_ballast_rail.dat
+      packing way.[Tak_RSR]BrownBallastRail[01NODIR]
+      packing way.[Tak_RSR]BrownBallastRail[02SOUTH]
+      packing way.[Tak_RSR]BrownBallastRail[03WEST]
+      packing way.[Tak_RSR]BrownBallastRail[04NORTH]
+      packing way.[Tak_RSR]BrownBallastRail[05EAST]
+      packing way.[Tak_RSR]BrownBallastRail[01NODIR][ELEVATED]
+      packing way.[Tak_RSR]BrownBallastRail[02SOUTH][ELEVATED]
+      packing way.[Tak_RSR]BrownBallastRail[03WEST][ELEVATED]
+      packing way.[Tak_RSR]BrownBallastRail[04NORTH][ELEVATED]
+      packing way.[Tak_RSR]BrownBallastRail[05EAST][ELEVATED]
+      packing bridge.[Tak_RSR]BrownBallastRamp
+   reading file ./gray_ballast_bridge.dat
+      packing bridge.[Tak_RSR]ModernGartarBridge
+   reading file ./gray_ballast_buffer.dat
+      packing way.[Tak_RSR]gray_ballast_buffer[01SINGLE]
+      packing way.[Tak_RSR]gray_ballast_buffer[02DOUBLE][LEFT][BACK]
+      packing way.[Tak_RSR]gray_ballast_buffer[03TRIPLE][MIDDLE]
+      packing way.[Tak_RSR]gray_ballast_buffer[04DOUBLE][RIGHT][FRONT]
+      packing way.[Tak_RSR]gray_ballast_buffer[ELEVATED][01SINGLE]
+      packing way.[Tak_RSR]gray_ballast_buffer[ELEVATED][02DOUBLE][LEFT][BACK]
+      packing way.[Tak_RSR]gray_ballast_buffer[ELEVATED][03TRIPLE][MIDDLE]
+      packing way.[Tak_RSR]gray_ballast_buffer[ELEVATED][04DOUBLE][RIGHT][FRONT]
+   reading file ./gray_ballast_rail.dat
+      packing way.[Tak_RSR]GrayBallastRail[01NODIR]
+      packing way.[Tak_RSR]GrayBallastRail[02SOUTH]
+      packing way.[Tak_RSR]GrayBallastRail[03WEST]
+      packing way.[Tak_RSR]GrayBallastRail[04NORTH]
+      packing way.[Tak_RSR]GrayBallastRail[05EAST]
+      packing way.[Tak_RSR]GrayBallastRail[01NODIR][ELEVATED]
+      packing way.[Tak_RSR]GrayBallastRail[02SOUTH][ELEVATED]
+      packing way.[Tak_RSR]GrayBallastRail[03WEST][ELEVATED]
+      packing way.[Tak_RSR]GrayBallastRail[04NORTH][ELEVATED]
+      packing way.[Tak_RSR]GrayBallastRail[05EAST][ELEVATED]
+      packing bridge.[Tak_RSR]GrayBallastRamp
+   reading file ./gray_slab_bridge.dat
+      packing bridge.[Tak_RSR]HighSpeedGartarBridge
+   reading file ./gray_slab_buffer.dat
+      packing way.[Tak_RSR]gray_slab_buffer[01SINGLE]
+      packing way.[Tak_RSR]gray_slab_buffer[02DOUBLE][LEFT][BACK]
+      packing way.[Tak_RSR]gray_slab_buffer[03TRIPLE][MIDDLE]
+      packing way.[Tak_RSR]gray_slab_buffer[04DOUBLE][RIGHT][FRONT]
+      packing way.[Tak_RSR]gray_slab_buffer[ELEVATED][01SINGLE]
+      packing way.[Tak_RSR]gray_slab_buffer[ELEVATED][02DOUBLE][LEFT][BACK]
+      packing way.[Tak_RSR]gray_slab_buffer[ELEVATED][03TRIPLE][MIDDLE]
+      packing way.[Tak_RSR]gray_slab_buffer[ELEVATED][04DOUBLE][RIGHT][FRONT]
+   reading file ./gray_slab_rail.dat
+      packing way.[Tak_RSR]GraySlabRail[01NODIR]
+      packing way.[Tak_RSR]GraySlabRail[02SOUTH]
+      packing way.[Tak_RSR]GraySlabRail[03WEST]
+      packing way.[Tak_RSR]GraySlabRail[04NORTH]
+      packing way.[Tak_RSR]GraySlabRail[05EAST]
+      packing way.[Tak_RSR]GraySlabRail[01NODIR][ELEVATED]
+      packing way.[Tak_RSR]GraySlabRail[02SOUTH][ELEVATED]
+      packing way.[Tak_RSR]GraySlabRail[03WEST][ELEVATED]
+      packing way.[Tak_RSR]GraySlabRail[04NORTH][ELEVATED]
+      packing way.[Tak_RSR]GraySlabRail[05EAST][ELEVATED]
+      packing bridge.[Tak_RSR]GraySlabRamp
+   reading file ./lightgray_slab_bridge.dat
+      packing bridge.[Tak_RSR]SuperSpeedGartarBridge
+   reading file ./lightgray_slab_buffer.dat
+      packing way.[Tak_RSR]lightgray_slab_buffer[01SINGLE]
+      packing way.[Tak_RSR]lightgray_slab_buffer[02DOUBLE][LEFT][BACK]
+      packing way.[Tak_RSR]lightgray_slab_buffer[03TRIPLE][MIDDLE]
+      packing way.[Tak_RSR]lightgray_slab_buffer[04DOUBLE][RIGHT][FRONT]
+      packing way.[Tak_RSR]lightgray_slab_buffer[ELEVATED][01SINGLE]
+      packing way.[Tak_RSR]lightgray_slab_buffer[ELEVATED][02DOUBLE][LEFT][BACK]
+      packing way.[Tak_RSR]lightgray_slab_buffer[ELEVATED][03TRIPLE][MIDDLE]
+      packing way.[Tak_RSR]lightgray_slab_buffer[ELEVATED][04DOUBLE][RIGHT][FRONT]
+   reading file ./lightgray_slab_rail.dat
+      packing way.[Tak_RSR]LightGraySlabRail[01NODIR]
+      packing way.[Tak_RSR]LightGraySlabRail[02SOUTH]
+      packing way.[Tak_RSR]LightGraySlabRail[03WEST]
+      packing way.[Tak_RSR]LightGraySlabRail[04NORTH]
+      packing way.[Tak_RSR]LightGraySlabRail[05EAST]
+      packing way.[Tak_RSR]LightGraySlabRail[01NODIR][ELEVATED]
+      packing way.[Tak_RSR]LightGraySlabRail[02SOUTH][ELEVATED]
+      packing way.[Tak_RSR]LightGraySlabRail[03WEST][ELEVATED]
+      packing way.[Tak_RSR]LightGraySlabRail[04NORTH][ELEVATED]
+      packing way.[Tak_RSR]LightGraySlabRail[05EAST][ELEVATED]
+      packing bridge.[Tak_RSR]LightGraySlabRamp

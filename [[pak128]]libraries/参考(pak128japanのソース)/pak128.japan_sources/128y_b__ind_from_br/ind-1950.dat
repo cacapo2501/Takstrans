@@ -1,0 +1,19 @@
+--------------------------
+
+Obj=building
+Name=IND_A_1950_02_10
+copyright=Archon (modified for Pak128.Japan)
+type=IND
+chance=100
+Level=10
+intro_year=1950
+#retire_year=2050
+needs_ground=1
+dims=1,1,4
+
+BackImage[0][0][0][0][0][0]=images/ind/A_modern_light_industry.2.0
+BackImage[1][0][0][0][0][0]=images/ind/A_modern_light_industry.2.1
+BackImage[2][0][0][0][0][0]=images/ind/A_modern_light_industry.2.2
+BackImage[3][0][0][0][0][0]=images/ind/A_modern_light_industry.2.3
+
+------------------------------

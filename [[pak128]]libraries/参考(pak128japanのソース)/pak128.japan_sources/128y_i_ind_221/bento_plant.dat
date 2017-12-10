@@ -1,0 +1,48 @@
+Obj=factory
+name=bento_plant
+copyright=James Starr/yoshi
+Location=Land
+
+#needed productivity in tones  : 700 (5 trains / month)
+#size                          : 2x2 = 4
+#average productivity per tile : 88
+
+DistributionWeight=2
+Productivity=40
+Range=1
+pax_level=60
+
+#total meat input 140
+InputGood[0]=vegetableB3
+InputFactor[0]=4
+InputCapacity[0]=25
+InputSupplier[0]=1
+
+#total fish input 140 (average 1pond one swarm)
+InputGood[1]=processed_fish12
+InputFactor[1]=30
+InputCapacity[1]=200
+InputSupplier[1]=1
+
+#total flour input 500
+InputGood[2]=hakumai3
+InputFactor[2]=5
+InputCapacity[2]=30
+InputSupplier[2]=1
+
+
+OutputGood[0]=bento12
+OutputFactor[0]=100
+OutputCapacity[0]=100
+
+MapColor=140
+Dims=2,2
+BackImage[0][0][0][0][0]=bento_plant.1.1
+BackImage[0][0][0][1][0]=bento_plant.0.1
+BackImage[0][1][0][0][0]=bento_plant.1.0
+BackImage[0][1][0][1][0]=bento_plant.0.0
+BackImage[0][0][1][0][0]=bento_plant.2.2
+BackImage[0][0][1][1][0]=bento_plant.1.2
+BackImage[0][1][1][0][0]=bento_plant.2.0
+
+# EOF

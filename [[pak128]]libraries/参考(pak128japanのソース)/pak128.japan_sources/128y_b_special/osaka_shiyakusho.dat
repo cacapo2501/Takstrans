@@ -1,0 +1,21 @@
+#
+# File created with TileCutter version 0.3d.1
+# For more information see http://simutrans.entropy.me.uk/tilecutter/
+#
+Obj=building
+name=06_CITY
+copyright=SeaGate/yoshi
+intro_year=1985
+retire_year=2300
+level=6
+needs_ground=1
+type=tow
+build_time=20000 
+Dims=2,3,1
+BackImage[0][0][0][0][0]=osaka_shiyakusho.0.0
+BackImage[0][0][1][0][0]=osaka_shiyakusho.0.1
+BackImage[0][1][0][0][0]=osaka_shiyakusho.1.0
+BackImage[0][1][1][0][0]=osaka_shiyakusho.1.1
+BackImage[0][2][0][0][0]=osaka_shiyakusho.2.0
+BackImage[0][2][1][0][0]=osaka_shiyakusho.2.1
+--------------------

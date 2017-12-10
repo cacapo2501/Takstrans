@@ -1,0 +1,13 @@
+Obj=symbol
+name=Builder
+copyright=raven
+Image[0]=symbol_128.0.0
+----------
+Obj=symbol
+name=BigLogo
+copyright=yoshi
+Image[0]=symbol_128.1.0
+Image[1]=symbol_128.1.1
+Image[2]=symbol_128.2.0
+Image[3]=symbol_128.2.1
+----------

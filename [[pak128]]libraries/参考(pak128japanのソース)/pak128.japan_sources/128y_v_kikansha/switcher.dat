@@ -1,0 +1,29 @@
+#------------------------------------------------------------------------------
+#   swicher.dat
+#　　　　　スイッチャー
+#
+#-------------------------------------------------------------------------------
+obj=vehicle
+copyright=713 (modified for Pak128.Japan)
+name=713_switcher
+waytype=track
+engine_type=diesel
+freight=None
+speed=40
+cost=150000
+weight=10
+power=130
+gear=150
+RunningCost=20
+length=4
+intro_year=1963
+intro_month=1
+EmptyImage[S]=swicher.0.0
+EmptyImage[E]=swicher.0.1
+EmptyImage[SE]=swicher.0.2
+EmptyImage[SW]=swicher.0.3
+EmptyImage[N]=swicher.0.4
+EmptyImage[W]=swicher.0.5
+EmptyImage[NW]=swicher.0.6
+EmptyImage[NE]=swicher.0.7
+--------------------------------------------------------------------------------

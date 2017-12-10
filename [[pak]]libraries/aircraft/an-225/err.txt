@@ -1,0 +1,3 @@
+writing file an225.pak
+   reading file ./an-225.dat
+      packing vehicle.AntonovASTC_An-225(cargo)

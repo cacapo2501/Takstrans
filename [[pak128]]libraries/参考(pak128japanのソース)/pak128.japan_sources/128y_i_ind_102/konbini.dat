@@ -1,0 +1,36 @@
+Obj=factory
+name=konbini
+Location=City
+
+#needed productivity in tones  : 400
+#size                          : 4x4 = 16
+#average productivity per tile : 12,2
+
+DistributionWeight=2
+Productivity=2
+Range=1
+pax_level=100
+Copyright=Napik & Patrick & James Starr
+
+InputGood[0]=bento12
+InputCapacity[0]=20
+InputSupplier[0]=1
+InputFactor[0]=100
+
+InputGood[1]=household_goods2
+InputCapacity[1]=200
+InputSupplier[1]=1
+InputFactor[1]=300
+
+InputGood[2]=Bucher2
+InputCapacity[2]=200
+InputSupplier[2]=1
+InputFactor[2]=500
+
+MapColor=101
+Dims=1,1,4
+BackImage[0][0][0][0][0]=konbini.4.0
+BackImage[1][0][0][0][0]=konbini.4.2
+BackImage[2][0][0][0][0]=konbini.4.0
+BackImage[3][0][0][0][0]=konbini.4.2
+

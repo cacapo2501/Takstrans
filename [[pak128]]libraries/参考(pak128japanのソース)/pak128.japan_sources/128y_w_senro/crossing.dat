@@ -1,0 +1,15 @@
+Obj=crossing
+Name=CrossingRoadRail
+waytype[0]=road
+waytype[1]=track
+speed[0]=30
+speed[1]=130
+openimage[ew][0]=crossing.0.0
+openimage[ns][0]=crossing.0.1
+front_openimage[ew][0]=crossing.1.0
+front_openimage[ns][0]=crossing.1.1
+closedimage[ew][0]=crossing.0.2
+closedimage[ns][0]=crossing.0.3
+front_closedimage[ew][0]=crossing.1.2
+front_closedimage[ns][0]=crossing.1.3
+sound=crossing.wav

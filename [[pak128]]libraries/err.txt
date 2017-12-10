@@ -1,0 +1,17 @@
+writing file jnr485-200.pak
+   reading file ./485-200.dat
+      packing vehicle.JNR_Class_485-200_cT_(JNR_Orignal)
+      packing vehicle.JNR_Class_485-200_Tc_(JNR_Orignal)
+      packing vehicle.JNR_Class_485-200_M_(JNR_Orignal)
+      packing vehicle.JNR_Class_485-200_M'_(JNR_Orignal)
+      packing vehicle.JNR_Class_485-200_Tbus_(JNR_Orignal)
+      packing vehicle.JNR_Class_485-200_T_(JNR_Orignal)
+      packing vehicle.JNR_Class_485-200_Tbuf_(JNR_Orignal)
+   reading file ./485-200kami.dat
+      packing vehicle.JNR_Class_485-200_cT_(Kaminuttari)
+      packing vehicle.JNR_Class_485-200_Tc_(Kaminuttari)
+      packing vehicle.JNR_Class_485-200_M_(Kaminuttari)
+      packing vehicle.JNR_Class_485-200_M'_(Kaminuttari)
+      packing vehicle.JNR_Class_485-200_Tbus_(Kaminuttari)
+      packing vehicle.JNR_Class_485-200_T_(Kaminuttari)
+      packing vehicle.JNR_Class_485-200_Tbuf_(Kaminuttari)

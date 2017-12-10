@@ -1,0 +1,24 @@
+--------------------
+Obj=factory
+name=uoichiba
+copyright=copyright=Peter J. Dobrovka/Raven/yoshi
+intro_year=1870
+retire_year=9999
+level=3    
+climates=water
+location=Land
+chance=100
+Productivity=100
+Range=1
+MapColor=165
+InputGood[0]=fishA13
+InputCapacity[0]=2000   
+InputFactor[0]=100  
+InputSupplier[0]=1
+OutputGood[0]=fishB13
+OutputCapacity[0]=2000   
+OutputFactor[0]=100
+Dims=2,1,1
+BackImage[0][0][0][0][0]=ind211_001.0.0
+BackImage[0][0][1][0][0]=ind211_001.0.1
+--------------------

@@ -1,0 +1,22 @@
+writing file TaksWire.pak
+   reading file ./darken_only.dat
+      packing way-object.[Tak_RSR]Darken_shade[01_01edge]
+      packing way-object.[Tak_RSR]Darken_shade[02_MID]
+   reading file ./h_beem.dat
+      packing way-object.[Tak_RSR]HTrussPowerLine[01_NODIR]
+      packing way-object.[Tak_RSR]HTrussPowerLine[02_SOUTH]
+      packing way-object.[Tak_RSR]HTrussPowerLine[03_WEST]
+      packing way-object.[Tak_RSR]HTrussPowerLine[04_NORTH]
+      packing way-object.[Tak_RSR]HTrussPowerLine[05_EAST]
+   reading file ./h_beem_fence.dat
+      packing way-object.[Tak_RSR]HTrussPowerLineWithFence[01_NODIR]
+      packing way-object.[Tak_RSR]HTrussPowerLineWithFence[02_SOUTH]
+      packing way-object.[Tak_RSR]HTrussPowerLineWithFence[03_WEST]
+      packing way-object.[Tak_RSR]HTrussPowerLineWithFence[04_NORTH]
+      packing way-object.[Tak_RSR]HTrussPowerLineWithFence[05_EAST]
+   reading file ./line_only.dat
+      packing way-object.[Tak_RSR]PowerLineOnly[01_NODIR]
+      packing way-object.[Tak_RSR]PowerLineOnly[02_SOUTH]
+      packing way-object.[Tak_RSR]PowerLineOnly[03_WEST]
+      packing way-object.[Tak_RSR]PowerLineOnly[04_NORTH]
+      packing way-object.[Tak_RSR]PowerLineOnly[05_EAST]

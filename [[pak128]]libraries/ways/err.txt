@@ -1,0 +1,3 @@
+writing file RSR_128jp.pak
+   reading file ./senro130.dat
+      packing way.otameshi_widerail
