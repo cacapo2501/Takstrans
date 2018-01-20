@@ -1,0 +1,9 @@
+writing file Odakyu70000.pak
+   reading file ./odakyu70000.dat
+      packing vehicle.Odakyu_Class_70000_Tc1
+      packing vehicle.Odakyu_Class_70000_M1
+      packing vehicle.Odakyu_Class_70000_M2
+      packing vehicle.Odakyu_Class_70000_T
+      packing vehicle.Odakyu_Class_70000_M3
+      packing vehicle.Odakyu_Class_70000_M4
+      packing vehicle.Odakyu_Class_70000_Tc2
