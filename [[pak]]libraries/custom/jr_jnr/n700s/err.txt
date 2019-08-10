@@ -1,0 +1,18 @@
+writing file n700s.pak
+   reading file ./n700s.dat
+      packing vehicle.JRC_ClassN700S_Model743(J-16)
+      packing vehicle.JRC_ClassN700S_Model747(J-16)
+      packing vehicle.JRC_ClassN700S_Model746-500(J-16)
+      packing vehicle.JRC_ClassN700S_Model745(J-16)
+      packing vehicle.JRC_ClassN700S_Model745-300(J-16)
+      packing vehicle.JRC_ClassN700S_Model746(J-16)
+      packing vehicle.JRC_ClassN700S_Model747-400(J-16)
+      packing vehicle.JRC_ClassN700S_Model735(J-16)
+      packing vehicle.JRC_ClassN700S_Model736(J-16)
+      packing vehicle.JRC_ClassN700S_Model737(J-16)
+      packing vehicle.JRC_ClassN700S_Model746-700(J-16)
+      packing vehicle.JRC_ClassN700S_Model745-600(J-16)
+      packing vehicle.JRC_ClassN700S_Model745-500(J-16)
+      packing vehicle.JRC_ClassN700S_Model746-200(J-16)
+      packing vehicle.JRC_ClassN700S_Model747-500(J-16)
+      packing vehicle.JRC_ClassN700S_Model744(J-16)
