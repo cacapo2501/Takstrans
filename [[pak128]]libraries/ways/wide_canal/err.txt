@@ -1,0 +1,9 @@
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing individual files to ./
+   reading file ./wide_canal.dat
+   writing file ./way.Taks_wide_canal.pak
+      packing way.Taks_wide_canal
