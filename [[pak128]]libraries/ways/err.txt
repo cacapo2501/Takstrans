@@ -1,3 +1,4 @@
-writing file RSR_128jp.pak
-   reading file ./senro130.dat
-      packing way.otameshi_widerail
+writing invidual files to ./
+   reading file ./wide_canal.dat
+   writing file ./way.Taks_wide_canal.pak
+      packing way.Taks_wide_canal

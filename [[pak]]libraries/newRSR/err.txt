@@ -1,0 +1,28 @@
+writing file TaksRSRSample.pak
+   reading file ./baseelevatedway.dat
+      packing way.[Tak_RSR]SampleSlabRail(Elevated)[01NODIR]
+      packing way.[Tak_RSR]SampleSlabRail(Elevated)[02SOUTH]
+      packing way.[Tak_RSR]SampleSlabRail(Elevated)[03WEST]
+      packing way.[Tak_RSR]SampleSlabRail(Elevated)[04NORTH]
+      packing way.[Tak_RSR]SampleSlabRail(Elevated)[05EAST]
+   reading file ./basepillar.dat
+      packing way.[Tak_RSR]PCPillar[01NorthSouth][Bottom]
+      packing way.[Tak_RSR]PCPillar[02EastWest][Bottom]
+      packing way.[Tak_RSR]PCPillar[03NorthWest][Bottom]
+      packing way.[Tak_RSR]PCPillar[04NorthtEast][Bottom]
+      packing way.[Tak_RSR]PCPillar[05SouthWest][Bottom]
+      packing way.[Tak_RSR]PCPillar[06SouthtEast][Bottom]
+      packing way.[Tak_RSR]PCPillar[01NorthSouth][Median]
+      packing way.[Tak_RSR]PCPillar[02EastWest][Median]
+      packing way.[Tak_RSR]PCPillar[03NorthWest][Median]
+      packing way.[Tak_RSR]PCPillar[04NorthtEast][Median]
+      packing way.[Tak_RSR]PCPillar[05SouthWest][Median]
+      packing way.[Tak_RSR]PCPillar[06SouthtEast][Median]
+   reading file ./baseway.dat
+      packing way.[Tak_RSR]SampleBallastRail[01NODIR]
+      packing way.[Tak_RSR]SampleBallastRail[02SOUTH]
+      packing way.[Tak_RSR]SampleBallastRail[03WEST]
+      packing way.[Tak_RSR]SampleBallastRail[04NORTH]
+      packing way.[Tak_RSR]SampleBallastRail[05EAST]
+   reading file ./shadow.dat
+      packing way.[Tak_RSR]Shadow[Edged]
