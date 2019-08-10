@@ -1,7 +1,0 @@
-writing file pec100.pak
-   reading file ./pec100.dat
-      packing vehicle.Class_PEC-100(Front)
-      packing vehicle.Class_PEC-150
-      packing vehicle.Class_PEC-100(Rear)
-      packing vehicle.Class_PEC-100(FrontRear)
-      packing vehicle.Class_PEC-100
