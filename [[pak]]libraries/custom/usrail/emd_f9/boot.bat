@@ -1,1 +1,0 @@
-java -jar suiteFX4.jar
