@@ -13,6 +13,6 @@ makeobj62-0 merge RBDTset.pak RBDT_Track.pak RBDT_Wire.pak RBDT_Monorail.pak >> 
 rem ŒÂ•Êpak‚ğíœ‚·‚é
 del RBDT_Track.pak
 del RBDT_Wire.pak
-del monorail_way.pak
+del RBDT_Monorail.pak
 
 pause
