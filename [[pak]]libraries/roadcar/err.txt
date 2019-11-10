@@ -1,0 +1,9 @@
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file erga_duo.pak
+   reading file isuzu_erga_duo.dat
+      packing vehicle.Isuzu_Erga_Duo(Maker_Colored)_Head
+      packing vehicle.Isuzu_Erga_Duo(Maker_Colored)_Tail
