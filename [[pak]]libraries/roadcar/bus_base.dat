@@ -1,0 +1,32 @@
+--------------------------------------------------------------------------------
+        Maker Name
+                Model Name
+--------------------------------------------------------------------------------
+obj=vehicle
+name=Template_Bus_Base
+copyright=Takamaro
+waytype=road
+engine_type=diesel
+freight=Passagiere
+payload=0
+speed=70
+power=355
+gear=120
+weight=24
+cost=100000
+RunningCost=80
+length=8
+intro_year=1990
+Constraint[Prev][0]=Template_Bus_Base
+Constraint[Prev][1]=None
+Constraint[Next][0]=Template_Bus_Base
+Constraint[Next][1]=None
+EmptyImage[S]=bus_base.0.0
+EmptyImage[E]=bus_base.0.1
+EmptyImage[SE]=bus_base.0.2
+EmptyImage[SW]=bus_base.0.3
+EmptyImage[N]=bus_base.0.4
+EmptyImage[W]=bus_base.0.5
+EmptyImage[NW]=bus_base.0.6
+EmptyImage[NE]=bus_base.0.7
+--------------------------------------------------------------------------------
