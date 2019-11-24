@@ -5,7 +5,7 @@ del err.txt
 rem pakâªÇ∑ÇÈ
 makeobj62-0 pak96 RBDT_Wire.pak wooden_single_pole_wire.dat >> err.txt
 makeobj62-0 pak96 RBDT_MonorailPillar.pak monorail_pillar.dat >> err.txt
-makeobj62-0 pak RBDT_Track.pak early_ballast_track.dat modern_ballast_track.dat >> err.txt
+makeobj62-0 pak RBDT_Track.pak early_ballast_track.dat modern_ballast_track.dat crossing.dat >> err.txt
 makeobj62-0 pak RBDT_Monorail.pak monorail_way.dat >> err.txt
 
 rem É}Å[ÉWÇ∑ÇÈ
