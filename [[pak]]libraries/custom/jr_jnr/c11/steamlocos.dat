@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
 #        Japan National Railways
-#             Steam Locomotions
+#             Steam Locomotives
 --------------------------------------------------------------------------------
 obj=vehicle
-name=JNR_C11_SteamLocomotion
+name=JNR_C11_SteamLocomotive
 copyright=Takamaro
 waytype=track
 engine_type=steam
