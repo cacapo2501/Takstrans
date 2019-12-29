@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+#        Japan National Railways
+#             Steam Locomotions
+--------------------------------------------------------------------------------
+obj=vehicle
+name=JNR_C11_SteamLocomotion
+copyright=Takamaro
+waytype=track
+engine_type=steam
+freight=None
+payload=0
+smoke=Steam
+gear=200
+power=449
+speed=85
+weight=66.05
+cost=400000
+RunningCost=600
+length=7
+intro_year=1932
+EmptyImage[S]=c11.0.0
+EmptyImage[E]=c11.0.1
+EmptyImage[SE]=c11.0.2
+EmptyImage[SW]=c11.0.3
+EmptyImage[N]=c11.0.4
+EmptyImage[W]=c11.0.5
+EmptyImage[NW]=c11.0.6
+EmptyImage[NE]=c11.0.7
+--------------------------------------------------------------------------------
