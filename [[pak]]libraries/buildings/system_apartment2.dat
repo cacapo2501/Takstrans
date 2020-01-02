@@ -1,0 +1,11 @@
+Obj=building
+Name=SystemApartment2
+Type=cur
+Passengers=100
+intro_year=1900
+chance=100
+dims=2,2,1
+BackImage[0][0][0][0][0][0]=system_apartment2_cut.0.0
+BackImage[0][0][1][0][0][0]=system_apartment2_cut.0.1
+BackImage[0][1][0][0][0][0]=system_apartment2_cut.1.0
+BackImage[0][1][1][0][0][0]=system_apartment2_cut.1.1
