@@ -1,3 +1,3 @@
 @echo off
-makeobj60-2 pak jrw281.pak 281.dat > err.txt
+makeobj62-0 pak makerxxx.pak xxx.dat > err.txt
 pause
