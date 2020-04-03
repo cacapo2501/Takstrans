@@ -1,0 +1,33 @@
+--------------------------------------------------------------------------------
+        Central Japan Railway Co., Ltd.
+                Class dc11
+--------------------------------------------------------------------------------
+obj=vehicle
+name=JRC_ClassKiHa11_ModelKiHa11
+copyright=Takamaro
+waytype=track
+engine_type=diesel
+freight=Passagiere
+payload=110
+speed=95
+power=243
+gear=150
+smoke=Diesel
+weight=27.8
+cost=85000
+RunningCost=250
+length=7
+intro_year=1989
+Constraint[Prev][0]=JRC_ClassKiHa11_ModelKiHa11
+Constraint[Prev][1]=None
+Constraint[Next][0]=JRC_ClassKiHa11_ModelKiHa11
+Constraint[Next][1]=None
+EmptyImage[S]=dc11.0.0
+EmptyImage[E]=dc11.0.1
+EmptyImage[SE]=dc11.0.2
+EmptyImage[SW]=dc11.0.3
+EmptyImage[N]=dc11.0.4
+EmptyImage[W]=dc11.0.5
+EmptyImage[NW]=dc11.0.6
+EmptyImage[NE]=dc11.0.7
+--------------------------------------------------------------------------------
