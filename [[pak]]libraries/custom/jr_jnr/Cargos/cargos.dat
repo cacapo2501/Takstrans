@@ -1,0 +1,33 @@
+--------------------------------------------------------------------------------
+#        Japan National Railways
+#             Cargos
+--------------------------------------------------------------------------------
+obj=vehicle
+name=JNR_WaMu1_CargoWagon
+copyright=Takamaro
+waytype=track
+freight=Buecher
+payload=15
+speed=85
+weight=8
+cost=15000
+RunningCost=50
+length=4
+intro_year=1914
+EmptyImage[S]=wamu1.0.0
+EmptyImage[E]=wamu1.0.1
+EmptyImage[SE]=wamu1.0.2
+EmptyImage[SW]=wamu1.0.3
+EmptyImage[N]=wamu1.0.4
+EmptyImage[W]=wamu1.0.5
+EmptyImage[NW]=wamu1.0.6
+EmptyImage[NE]=wamu1.0.7
+FreightImage[S]=wamu1.1.0
+FreightImage[E]=wamu1.1.1
+FreightImage[SE]=wamu1.1.2
+FreightImage[SW]=wamu1.1.3
+FreightImage[N]=wamu1.1.4
+FreightImage[W]=wamu1.1.5
+FreightImage[NW]=wamu1.1.6
+FreightImage[NE]=wamu1.1.7
+--------------------------------------------------------------------------------
