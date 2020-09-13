@@ -3,9 +3,37 @@ Makeobj version 60.2 for Simutrans 120.4 and higher
 
 (c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
 
+writing file bus_base.pak
+   reading file bus_base.dat
+      packing vehicle.Template_Bus_Base
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file erga_duo.pak
+   reading file isuzu_erga_duo.dat
+      packing vehicle.Isuzu_Erga_Duo(Maker_Colored)_Head
+      packing vehicle.Isuzu_Erga_Duo(Maker_Colored)_Tail
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
 writing file supra_2019.pak
    reading file supra_2019.dat
       packing vehicle.Toyota_Supra(DB)_Red
       packing vehicle.Toyota_Supra(DB)_Yellow
       packing vehicle.Toyota_Supra(DB)_White
       packing vehicle.Toyota_Supra(DB)_Silver
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file cedric_taxi.pak
+   reading file cedric_taxi.dat
+      packing vehicle.Nissan_Cedric_Taxi(Black)
+      packing vehicle.Nissan_Cedric_Taxi(Green)
+      packing vehicle.Nissan_Cedric_Taxi(White)
+      packing vehicle.Nissan_Cedric_Taxi(Yellow)
