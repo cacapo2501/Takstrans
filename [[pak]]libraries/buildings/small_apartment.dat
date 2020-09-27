@@ -1,0 +1,13 @@
+Obj=building
+Name=GreenRoofSmallApartment
+copyright=Takamaro
+Dims=1,1,4
+# type=res|com|ind
+type=res
+chance=100
+Level=10
+intro_year=1980
+BackImage[0][0][0][0][0]=small_apartment.1.1
+BackImage[1][0][0][0][0]=small_apartment.0.1
+BackImage[2][0][0][0][0]=small_apartment.1.0
+BackImage[3][0][0][0][0]=small_apartment.0.0

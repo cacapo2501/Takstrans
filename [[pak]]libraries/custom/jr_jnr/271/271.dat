@@ -3,7 +3,7 @@
                 Class 271
 --------------------------------------------------------------------------------
 obj=vehicle
-name=JRW_Class281_KuMoHa271
+name=JRW_Class271_KuMoHa271
 copyright=Takamaro
 waytype=track
 engine_type=electric
@@ -18,7 +18,7 @@ RunningCost=100
 length=8
 intro_year=2020
 Constraint[Prev][0]=None
-Constraint[Next][0]=JRW_Class281_MoHa271
+Constraint[Next][0]=JRW_Class271_MoHa271
 EmptyImage[S]=271.0.0
 EmptyImage[E]=271.0.1
 EmptyImage[SE]=271.0.2
@@ -29,7 +29,7 @@ EmptyImage[NW]=271.0.6
 EmptyImage[NE]=271.0.7
 --------------------------------------------------------------------------------
 obj=vehicle
-name=JRW_Class281_MoHa271
+name=JRW_Class271_MoHa271
 copyright=Takamaro
 waytype=track
 engine_type=electric
@@ -43,8 +43,8 @@ cost=110000
 RunningCost=100
 length=8
 intro_year=2020
-Constraint[Prev][0]=JRW_Class281_KuMoHa271
-Constraint[Next][0]=JRW_Class281_KuMoHa270
+Constraint[Prev][0]=JRW_Class271_KuMoHa271
+Constraint[Next][0]=JRW_Class271_KuMoHa270
 EmptyImage[S]=271.1.0
 EmptyImage[E]=271.1.1
 EmptyImage[SE]=271.1.2
@@ -55,7 +55,7 @@ EmptyImage[NW]=271.1.6
 EmptyImage[NE]=271.1.7
 --------------------------------------------------------------------------------
 obj=vehicle
-name=JRW_Class281_KuMoHa270
+name=JRW_Class271_KuMoHa270
 copyright=Takamaro
 waytype=track
 engine_type=electric
@@ -69,7 +69,7 @@ cost=110000
 RunningCost=100
 length=8
 intro_year=2020
-Constraint[Prev][0]=JRW_Class281_MoHa271
+Constraint[Prev][0]=JRW_Class271_MoHa271
 Constraint[Next][0]=JRW_Class281_KuHa281
 Constraint[Next][1]=None
 EmptyImage[S]=271.2.0
