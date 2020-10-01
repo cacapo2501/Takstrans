@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------
+#        French National Railway Company
+#             Class BB8500
+--------------------------------------------------------------------------------
+obj=vehicle
+name=SNCF_BB8500_Electric_Locomotive
+copyright=Takamaro
+waytype=track
+engine_type=electric
+freight=None
+payload=0
+gear=100
+power=2610
+speed=140
+weight=78
+cost=600000
+RunningCost=700
+length=7
+intro_year=1964
+EmptyImage[S]=bb8500.0.0
+EmptyImage[E]=bb8500.0.1
+EmptyImage[SE]=bb8500.0.2
+EmptyImage[SW]=bb8500.0.3
+EmptyImage[N]=bb8500.0.4
+EmptyImage[W]=bb8500.0.5
+EmptyImage[NW]=bb8500.0.6
+EmptyImage[NE]=bb8500.0.7
+--------------------------------------------------------------------------------
