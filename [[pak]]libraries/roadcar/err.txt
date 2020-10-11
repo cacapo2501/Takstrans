@@ -20,6 +20,18 @@ Makeobj version 60.2 for Simutrans 120.4 and higher
 
 (c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
 
+writing file hino_blue_ribbon_ii.pak
+   reading file hino_blue_ribbon_ii.dat
+      packing vehicle.Hino_BlueRibbonII_Toei_Colored
+      packing vehicle.Hino_BlueRibbonII_NiigataKotsu_Colored
+      packing vehicle.Hino_BlueRibbonII_KyushuSanko_Colored
+      packing vehicle.Hino_BlueRibbonII_KokusaiKogyo_Colored
+      packing vehicle.Hino_BlueRibbonII_KantoJidousha_Colored
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
 writing file supra_2019.pak
    reading file supra_2019.dat
       packing vehicle.Toyota_Supra(DB)_Red
