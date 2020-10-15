@@ -43,6 +43,16 @@ Makeobj version 60.2 for Simutrans 120.4 and higher
 
 (c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
 
+writing file mazda_mpv_lv.pak
+   reading file mazda_mpv_lv.dat
+      packing vehicle.Mazda_MPV_LV_Red
+      packing vehicle.Mazda_MPV_LV_Blue
+      packing vehicle.Mazda_MPV_LV_Black
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
 writing file cedric_taxi.pak
    reading file cedric_taxi.dat
       packing vehicle.Nissan_Cedric_Taxi(Black)
