@@ -32,6 +32,14 @@ Makeobj version 60.2 for Simutrans 120.4 and higher
 
 (c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
 
+writing file fuso_canter.pak
+   reading file fuso_canter.dat
+      packing vehicle.Fuso_Canter_palette_truck_white
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
 writing file supra_2019.pak
    reading file supra_2019.dat
       packing vehicle.Toyota_Supra(DB)_Red
