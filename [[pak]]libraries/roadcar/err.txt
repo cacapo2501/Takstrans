@@ -32,12 +32,57 @@ Makeobj version 60.2 for Simutrans 120.4 and higher
 
 (c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
 
+writing file fuso_canter.pak
+   reading file fuso_canter.dat
+      packing vehicle.Fuso_Canter_palette_truck_white
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
 writing file supra_2019.pak
    reading file supra_2019.dat
       packing vehicle.Toyota_Supra(DB)_Red
       packing vehicle.Toyota_Supra(DB)_Yellow
       packing vehicle.Toyota_Supra(DB)_White
       packing vehicle.Toyota_Supra(DB)_Silver
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file mazda_mpv_lv.pak
+   reading file mazda_mpv_lv.dat
+      packing vehicle.Mazda_MPV_LV_Red
+      packing vehicle.Mazda_MPV_LV_Blue
+      packing vehicle.Mazda_MPV_LV_Black
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file honda_fit.pak
+   reading file honda_fit.dat
+      packing vehicle.Honda_Fit_SkyBlue_BlackTop
+      packing vehicle.Honda_Fit_White_BlackTop
+      packing vehicle.Honda_Fit_Red_BlackTop
+      packing vehicle.Honda_Fit_White
+      packing vehicle.Honda_Fit_Red
+      packing vehicle.Honda_Fit_Silver
+      packing vehicle.Honda_Fit_SkyBlue
+      packing vehicle.Honda_Fit_Black
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file suzuki_alto.pak
+   reading file suzuki_alto.dat
+      packing vehicle.Suzuki_Alto_White
+      packing vehicle.Suzuki_Alto_Silver
+      packing vehicle.Suzuki_Alto_Black
+      packing vehicle.Suzuki_Alto_Red
+      packing vehicle.Suzuki_Alto_SkyBlue
 
 Makeobj version 60.2 for Simutrans 120.4 and higher
 

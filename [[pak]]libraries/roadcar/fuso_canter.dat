@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------
+        Mitsubishi Fuso Auto Corpration
+                Canter
+--------------------------------------------------------------------------------
+obj=vehicle
+name=Fuso_Canter_palette_truck_white
+copyright=Takamaro
+waytype=road
+engine_type=diesel
+freight=Buecher
+payload=5
+speed=110
+power=129
+gear=120
+weight=7.8
+cost=50000
+RunningCost=80
+length=7
+intro_year=1990
+Constraint[Prev][0]=None
+Constraint[Next][0]=None
+EmptyImage[S]=fuso_canter_tofu.0.0
+EmptyImage[E]=fuso_canter_tofu.0.1
+EmptyImage[SE]=fuso_canter_tofu.0.2
+EmptyImage[SW]=fuso_canter_tofu.0.3
+EmptyImage[N]=fuso_canter_tofu.0.4
+EmptyImage[W]=fuso_canter_tofu.0.5
+EmptyImage[NW]=fuso_canter_tofu.0.6
+EmptyImage[NE]=fuso_canter_tofu.0.7
+--------------------------------------------------------------------------------
