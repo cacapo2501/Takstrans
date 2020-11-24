@@ -104,6 +104,9 @@ writing file honda_nsx_na1.pak
       packing citycar.honda_nsx_na1_red
       packing citycar.honda_nsx_na1_white
       packing citycar.honda_nsx_na1_silver
+      packing vehicle.[PV]Honda_NSX_NA1_White
+      packing vehicle.[PV]Honda_NSX_NA1_Silver
+      packing vehicle.[PV]Honda_NSX_NA1_Red
 
 Makeobj version 60.2 for Simutrans 120.4 and higher
 
@@ -114,3 +117,6 @@ writing file toyota_mr2.pak
       packing citycar.toyota_mr2_white
       packing citycar.toyota_mr2_blue
       packing citycar.toyota_mr2_orange
+      packing vehicle.[PV]Toyota_MR2_White
+      packing vehicle.[PV]Toyota_MR2_Blue
+      packing vehicle.[PV]Toyota_MR2_Orange
