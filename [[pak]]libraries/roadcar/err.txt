@@ -94,3 +94,23 @@ writing file cedric_taxi.pak
       packing vehicle.Nissan_Cedric_Taxi(Green)
       packing vehicle.Nissan_Cedric_Taxi(White)
       packing vehicle.Nissan_Cedric_Taxi(Yellow)
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file honda_nsx_na1.pak
+   reading file honda_nsx_na1.dat
+      packing citycar.honda_nsx_na1_red
+      packing citycar.honda_nsx_na1_white
+      packing citycar.honda_nsx_na1_silver
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file toyota_mr2.pak
+   reading file toyota_mr2.dat
+      packing citycar.toyota_mr2_white
+      packing citycar.toyota_mr2_blue
+      packing citycar.toyota_mr2_orange

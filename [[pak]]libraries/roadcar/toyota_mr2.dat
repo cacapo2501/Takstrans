@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------
+        Toyota Motor Corporation.
+                MR2
+--------------------------------------------------------------------------------
+Obj=citycar
+Name=toyota_mr2_white
+DistributionWeight=1
+intro_year = 1988
+speed = 220
+Image[S]=toyota_mr2_white.0.0
+Image[E]=toyota_mr2_white.0.1
+Image[SE]=toyota_mr2_white.0.2
+Image[SW]=toyota_mr2_white.0.3
+Image[N]=toyota_mr2_white.0.4
+Image[W]=toyota_mr2_white.0.5
+Image[NW]=toyota_mr2_white.0.6
+Image[NE]=toyota_mr2_white.0.7
+--------------------------------------------------------------------------------
+Obj=citycar
+Name=toyota_mr2_blue
+DistributionWeight=2
+intro_year = 1988
+speed = 220
+Image[S]=toyota_mr2_blue.0.0
+Image[E]=toyota_mr2_blue.0.1
+Image[SE]=toyota_mr2_blue.0.2
+Image[SW]=toyota_mr2_blue.0.3
+Image[N]=toyota_mr2_blue.0.4
+Image[W]=toyota_mr2_blue.0.5
+Image[NW]=toyota_mr2_blue.0.6
+Image[NE]=toyota_mr2_blue.0.7
+--------------------------------------------------------------------------------
+Obj=citycar
+Name=toyota_mr2_orange
+DistributionWeight=1
+intro_year = 1988
+speed = 220
+Image[S]=toyota_mr2_orange.0.0
+Image[E]=toyota_mr2_orange.0.1
+Image[SE]=toyota_mr2_orange.0.2
+Image[SW]=toyota_mr2_orange.0.3
+Image[N]=toyota_mr2_orange.0.4
+Image[W]=toyota_mr2_orange.0.5
+Image[NW]=toyota_mr2_orange.0.6
+Image[NE]=toyota_mr2_orange.0.7
+--------------------------------------------------------------------------------

@@ -1,0 +1,46 @@
+--------------------------------------------------------------------------------
+        Honda Motor Corporation.
+                NSX(NA1)
+--------------------------------------------------------------------------------
+Obj=citycar
+Name=honda_nsx_na1_red
+DistributionWeight=1
+intro_year = 1988
+speed = 220
+Image[S]=honda_nsx_na1_red.0.0
+Image[E]=honda_nsx_na1_red.0.1
+Image[SE]=honda_nsx_na1_red.0.2
+Image[SW]=honda_nsx_na1_red.0.3
+Image[N]=honda_nsx_na1_red.0.4
+Image[W]=honda_nsx_na1_red.0.5
+Image[NW]=honda_nsx_na1_red.0.6
+Image[NE]=honda_nsx_na1_red.0.7
+--------------------------------------------------------------------------------
+Obj=citycar
+Name=honda_nsx_na1_white
+DistributionWeight=2
+intro_year = 1988
+speed = 220
+Image[S]=honda_nsx_na1_white.0.0
+Image[E]=honda_nsx_na1_white.0.1
+Image[SE]=honda_nsx_na1_white.0.2
+Image[SW]=honda_nsx_na1_white.0.3
+Image[N]=honda_nsx_na1_white.0.4
+Image[W]=honda_nsx_na1_white.0.5
+Image[NW]=honda_nsx_na1_white.0.6
+Image[NE]=honda_nsx_na1_white.0.7
+--------------------------------------------------------------------------------
+Obj=citycar
+Name=honda_nsx_na1_silver
+DistributionWeight=1
+intro_year = 1988
+speed = 220
+Image[S]=honda_nsx_na1_silver.0.0
+Image[E]=honda_nsx_na1_silver.0.1
+Image[SE]=honda_nsx_na1_silver.0.2
+Image[SW]=honda_nsx_na1_silver.0.3
+Image[N]=honda_nsx_na1_silver.0.4
+Image[W]=honda_nsx_na1_silver.0.5
+Image[NW]=honda_nsx_na1_silver.0.6
+Image[NE]=honda_nsx_na1_silver.0.7
+--------------------------------------------------------------------------------
