@@ -120,3 +120,18 @@ writing file toyota_mr2.pak
       packing vehicle.[PV]Toyota_MR2_White
       packing vehicle.[PV]Toyota_MR2_Blue
       packing vehicle.[PV]Toyota_MR2_Orange
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file mazda_roadster.pak
+   reading file mazda_roadster.dat
+      packing citycar.Mazda_RoadSter_RD5_White
+      packing citycar.Mazda_RoadSter_RD5_Gray
+      packing citycar.Mazda_RoadSter_RD5_White
+      packing citycar.Mazda_RoadSter_RD5_Blue
+      packing vehicle.[PV]Mazda_RoadSter_RD5_White
+      packing vehicle.[PV]Mazda_RoadSter_RD5_Gray
+      packing vehicle.[PV]Mazda_RoadSter_RD5_Red
+      packing vehicle.[PV]Mazda_RoadSter_RD5_Blue
