@@ -11,4 +11,5 @@ makeobj62-0 pak cedric_taxi.pak cedric_taxi.dat >> err.txt
 makeobj62-0 pak honda_nsx_na1.pak honda_nsx_na1.dat >> err.txt
 makeobj62-0 pak toyota_mr2.pak toyota_mr2.dat >> err.txt
 makeobj62-0 pak mazda_roadster.pak mazda_roadster.dat >> err.txt
+makeobj62-0 pak nissan_cube.pak nissan_cube.dat >> err.txt
 pause

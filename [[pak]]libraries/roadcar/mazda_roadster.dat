@@ -31,7 +31,7 @@ Image[NW]=mazda_roadster.1.6
 Image[NE]=mazda_roadster.1.7
 --------------------------------------------------------------------------------
 Obj=citycar
-Name=Mazda_RoadSter_RD5_White
+Name=Mazda_RoadSter_RD5_Red
 DistributionWeight=2
 intro_year = 2015
 speed = 165

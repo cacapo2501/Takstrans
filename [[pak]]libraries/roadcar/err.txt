@@ -129,9 +129,24 @@ writing file mazda_roadster.pak
    reading file mazda_roadster.dat
       packing citycar.Mazda_RoadSter_RD5_White
       packing citycar.Mazda_RoadSter_RD5_Gray
-      packing citycar.Mazda_RoadSter_RD5_White
+      packing citycar.Mazda_RoadSter_RD5_Red
       packing citycar.Mazda_RoadSter_RD5_Blue
       packing vehicle.[PV]Mazda_RoadSter_RD5_White
       packing vehicle.[PV]Mazda_RoadSter_RD5_Gray
       packing vehicle.[PV]Mazda_RoadSter_RD5_Red
       packing vehicle.[PV]Mazda_RoadSter_RD5_Blue
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file nissan_cube.pak
+   reading file nissan_cube.dat
+      packing citycar.Nissan_Cube_Z12_SkyBlue
+      packing citycar.Nissan_Cube_Z12_Gold
+      packing citycar.Nissan_Cube_Z12_Cream
+      packing citycar.Nissan_Cube_Z12_Black
+      packing vehicle.[PV]Nissan_Cube_Z12_SkyBlue
+      packing vehicle.[PV]Nissan_Cube_Z12_Gold
+      packing vehicle.[PV]Nissan_Cube_Z12_Cream
+      packing vehicle.[PV]Nissan_Cube_Z12_Black
