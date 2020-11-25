@@ -150,3 +150,18 @@ writing file nissan_cube.pak
       packing vehicle.[PV]Nissan_Cube_Z12_Gold
       packing vehicle.[PV]Nissan_Cube_Z12_Cream
       packing vehicle.[PV]Nissan_Cube_Z12_Black
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file mitsubishi_lancer_evo_vii.pak
+   reading file mitsubishi_lancer_evo_vii.dat
+      packing citycar.Mitsubishi_Lancer_Evolution_VII_Yellow
+      packing citycar.Mitsubishi_Lancer_Evolution_VII_Red
+      packing citycar.Mitsubishi_Lancer_Evolution_VII_Silver
+      packing citycar.Mitsubishi_Lancer_Evolution_VII_Black
+      packing vehicle.[PV]Mitsubishi_Lancer_Evolution_VII_Yellow
+      packing vehicle.[PV]Mitsubishi_Lancer_Evolution_VII_Red
+      packing vehicle.[PV]Mitsubishi_Lancer_Evolution_VII_Silver
+      packing vehicle.[PV]Mitsubishi_Lancer_Evolution_VII_Black
