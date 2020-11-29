@@ -1,0 +1,44 @@
+--------------------------------------------------------------------------------
+        Toyota Motor Corporation.
+                Supra(JZA80)
+--------------------------------------------------------------------------------
+Obj=citycar
+Name=toyota_supra_jza80_white
+DistributionWeight=1
+intro_year = 1993
+speed = 200
+Image[S]=toyota_supra_jza80.0.0
+Image[E]=toyota_supra_jza80.0.1
+Image[SE]=toyota_supra_jza80.0.2
+Image[SW]=toyota_supra_jza80.0.3
+Image[N]=toyota_supra_jza80.0.4
+Image[W]=toyota_supra_jza80.0.5
+Image[NW]=toyota_supra_jza80.0.6
+Image[NE]=toyota_supra_jza80.0.7
+--------------------------------------------------------------------------------
+obj=vehicle
+name=[PV]Toyota_Supra_JZA80_White
+copyright=Takamaro
+waytype=road
+engine_type=diesel
+freight=Passagiere
+payload=1
+speed=200
+power=98
+gear=100
+weight=1.41
+cost=1200
+RunningCost=0
+length=6
+intro_year=1993
+Constraint[Prev][0]=None
+Constraint[Next][0]=None
+EmptyImage[S]=toyota_supra_jza80.0.0
+EmptyImage[E]=toyota_supra_jza80.0.1
+EmptyImage[SE]=toyota_supra_jza80.0.2
+EmptyImage[SW]=toyota_supra_jza80.0.3
+EmptyImage[N]=toyota_supra_jza80.0.4
+EmptyImage[W]=toyota_supra_jza80.0.5
+EmptyImage[NW]=toyota_supra_jza80.0.6
+EmptyImage[NE]=toyota_supra_jza80.0.7
+--------------------------------------------------------------------------------

@@ -176,3 +176,12 @@ writing file toyota_hiace_h200.pak
       packing citycar.toyota_hiace_h200_silver
       packing vehicle.[PV]Toyota_Hiace_H200_White
       packing vehicle.[PV]Toyota_Hiace_H200_Silver
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file toyota_supra_jza80.pak
+   reading file toyota_supra_jza80.dat
+      packing citycar.toyota_supra_jza80_white
+      packing vehicle.[PV]Toyota_Supra_JZA80_White

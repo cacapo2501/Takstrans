@@ -14,4 +14,5 @@ makeobj62-0 pak mazda_roadster.pak mazda_roadster.dat >> err.txt
 makeobj62-0 pak nissan_cube.pak nissan_cube.dat >> err.txt
 makeobj62-0 pak mitsubishi_lancer_evo_vii.pak mitsubishi_lancer_evo_vii.dat >> err.txt
 makeobj62-0 pak toyota_hiace_h200.pak toyota_hiace_h200.dat >> err.txt
+makeobj62-0 pak toyota_supra_jza80.pak toyota_supra_jza80.dat >> err.txt
 pause
