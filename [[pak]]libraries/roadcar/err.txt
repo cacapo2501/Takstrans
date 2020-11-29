@@ -165,3 +165,14 @@ writing file mitsubishi_lancer_evo_vii.pak
       packing vehicle.[PV]Mitsubishi_Lancer_Evolution_VII_Red
       packing vehicle.[PV]Mitsubishi_Lancer_Evolution_VII_Silver
       packing vehicle.[PV]Mitsubishi_Lancer_Evolution_VII_Black
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file toyota_hiace_h200.pak
+   reading file toyota_hiace_h200.dat
+      packing citycar.toyota_hiace_h200_white
+      packing citycar.toyota_hiace_h200_silver
+      packing vehicle.[PV]Toyota_Hiace_H200_White
+      packing vehicle.[PV]Toyota_Hiace_H200_Silver
