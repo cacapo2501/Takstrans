@@ -185,3 +185,18 @@ writing file toyota_supra_jza80.pak
    reading file toyota_supra_jza80.dat
       packing citycar.toyota_supra_jza80_white
       packing vehicle.[PV]Toyota_Supra_JZA80_White
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file mitsubishi_lancer_evo_iv.pak
+   reading file mitsubishi_lancer_evo_iv.dat
+      packing citycar.Mitsubishi_Lancer_Evolution_IV_Yellow
+      packing citycar.Mitsubishi_Lancer_Evolution_IV_Red
+      packing citycar.Mitsubishi_Lancer_Evolution_IV_White
+      packing citycar.Mitsubishi_Lancer_Evolution_IV_Silver
+      packing vehicle.[PV]Mitsubishi_Lancer_Evolution_IV_Yellow
+      packing vehicle.[PV]Mitsubishi_Lancer_Evolution_IV_Red
+      packing vehicle.[PV]Mitsubishi_Lancer_Evolution_IV_White
+      packing vehicle.[PV]Mitsubishi_Lancer_Evolution_IV_Silver
