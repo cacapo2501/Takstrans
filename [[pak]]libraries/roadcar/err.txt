@@ -200,3 +200,18 @@ writing file mitsubishi_lancer_evo_iv.pak
       packing vehicle.[PV]Mitsubishi_Lancer_Evolution_IV_Red
       packing vehicle.[PV]Mitsubishi_Lancer_Evolution_IV_White
       packing vehicle.[PV]Mitsubishi_Lancer_Evolution_IV_Silver
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file honda_n_one.pak
+   reading file honda_n_one.dat
+      packing citycar.Honda_N-ONE_White
+      packing citycar.Honda_N-ONE_Red
+      packing citycar.Honda_N-ONE_SkyBlue
+      packing citycar.Honda_N-ONE_Cream
+      packing vehicle.[PV]Honda_N-ONE_White
+      packing vehicle.[PV]Honda_N-ONE_Red
+      packing vehicle.[PV]Honda_N-ONE_SkyBlue
+      packing vehicle.[PV]Honda_N-ONE_Cream
