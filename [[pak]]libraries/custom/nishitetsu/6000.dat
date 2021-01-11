@@ -100,6 +100,7 @@ RunningCost=320
 length=8
 intro_year=1993
 Constraint[Prev][0]=Nishitetsu_Class6000_ModelMo6200
+Constraint[Prev][1]=Nishitetsu_Class6000_ModelKu6100
 Constraint[Next][0]=Nishitetsu_Class6000_ModelKu6500
 EmptyImage[S]=6000.3.0
 EmptyImage[E]=6000.3.1
