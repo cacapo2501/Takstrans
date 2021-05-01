@@ -1,4 +1,5 @@
 @echo off
+makeobj62-0 pak nishitetsu600.pak 600.dat 600_modified.dat
 makeobj62-0 pak nishitetsu1000.pak 1000.dat
 makeobj62-0 pak nishitetsu1300.pak 1300.dat
 makeobj62-0 pak nishitetsu2000.pak 2000.dat
