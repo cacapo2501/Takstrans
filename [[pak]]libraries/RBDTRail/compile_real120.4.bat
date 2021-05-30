@@ -3,9 +3,9 @@ rem err.txt‚ðíœ‚·‚é
 del err.txt
 
 rem pak‰»‚·‚é
-makeobj62-0 pak96 RBDT_Wire.pak wooden_single_pole_wire.dat wire_dualpole_concrete.dat wire_nopole.dat >> err.txt
+makeobj62-0 pak96 RBDT_Wire.pak wooden_single_pole_wire.dat wire_dualpole_concrete.dat wire_nopole.dat wire_subway_wall.dat >> err.txt
 makeobj62-0 pak96 RBDT_MonorailPillar.pak monorail_pillar.dat >> err.txt
-makeobj62-0 pak RBDT_Track.pak early_ballast_track.dat modern_ballast_track.dat way_lightgray_slab.dat crossing.dat >> err.txt
+makeobj62-0 pak RBDT_Track.pak track_gray_ballast.dat track_brown_ballast.dat way_lightgray_slab.dat crossing.dat >> err.txt
 makeobj62-0 pak RBDT_Shadow_And_Pier.pak shadow.dat >> err.txt
 makeobj62-0 pak RBDT_Monorail.pak monorail_way.dat >> err.txt
 
