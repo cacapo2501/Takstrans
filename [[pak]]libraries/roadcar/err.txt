@@ -215,3 +215,16 @@ writing file honda_n_one.pak
       packing vehicle.[PV]Honda_N-ONE_Red
       packing vehicle.[PV]Honda_N-ONE_SkyBlue
       packing vehicle.[PV]Honda_N-ONE_Cream
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file nissan_gt-r.pak
+   reading file nissan_gt-r.dat
+      packing citycar.Nissan_GT-R_R35_Silver
+      packing vehicle.[PV]Nissan_GT-R_R35_Silver
+      packing citycar.Nissan_GT-R_R35_Black
+      packing vehicle.[PV]Nissan_GT-R_R35_Black
+      packing citycar.Nissan_GT-R_R35_White
+      packing vehicle.[PV]Nissan_GT-R_R35_White

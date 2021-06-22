@@ -17,4 +17,5 @@ makeobj62-0 pak toyota_hiace_h200.pak toyota_hiace_h200.dat >> err.txt
 makeobj62-0 pak toyota_supra_jza80.pak toyota_supra_jza80.dat >> err.txt
 makeobj62-0 pak mitsubishi_lancer_evo_iv.pak mitsubishi_lancer_evo_iv.dat >> err.txt
 makeobj62-0 pak honda_n_one.pak honda_n_one.dat >> err.txt
+makeobj62-0 pak nissan_gt-r.pak nissan_gt-r.dat >> err.txt
 pause
