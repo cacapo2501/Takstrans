@@ -228,3 +228,16 @@ writing file nissan_gt-r.pak
       packing vehicle.[PV]Nissan_GT-R_R35_Black
       packing citycar.Nissan_GT-R_R35_White
       packing vehicle.[PV]Nissan_GT-R_R35_White
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file nissan_silvia_s13.pak
+   reading file nissan_silvia_s13.dat
+      packing citycar.Nissan_Silvia_S13_LightGreen
+      packing vehicle.[PV]Nissan_Silvia_S13_LightGreen
+      packing citycar.Nissan_Silvia_S13_Red
+      packing vehicle.[PV]Nissan_Silvia_S13_Red
+      packing citycar.Nissan_Silvia_S13_White
+      packing vehicle.[PV]Nissan_Silvia_S13_White
