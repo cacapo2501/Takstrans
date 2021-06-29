@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------
+       Hiroshima Electric Railway Co., Ltd.
+                Class 600ii
+--------------------------------------------------------------------------------
+obj=vehicle
+name=Hiroden_Class600ii
+copyright=Takamaro
+waytype=tram_track
+engine_type=electric
+freight=Passagiere
+payload=88
+speed=55
+power=90
+gear=125
+weight=17.9
+cost=20000
+RunningCost=100
+length=6
+intro_year=1977
+Constraint[Prev][0]=None
+Constraint[Next][0]=None
+EmptyImage[S]=600ii.0.0
+EmptyImage[E]=600ii.0.1
+EmptyImage[SE]=600ii.0.2
+EmptyImage[SW]=600ii.0.3
+EmptyImage[N]=600ii.0.4
+EmptyImage[W]=600ii.0.5
+EmptyImage[NW]=600ii.0.6
+EmptyImage[NE]=600ii.0.7
+--------------------------------------------------------------------------------
