@@ -267,3 +267,16 @@ writing file daihatsu_move_la150s.pak
       packing vehicle.[PV]Daihatsu_Move_LA150S_White
       packing citycar.Daihatsu_Move_LA150S_Silver
       packing vehicle.[PV]Daihatsu_Move_LA150S_Silver
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file daihatsu_hizet.pak
+   reading file daihatsu_hizet.dat
+      packing citycar.Daihatsu_Hizet_White
+      packing vehicle.[PV]Daihatsu_Hizet_White
+      packing citycar.Daihatsu_Hizet_Silver
+      packing vehicle.[PV]Daihatsu_Hizet_Silver
+      packing citycar.Daihatsu_Hizet_SkyBlue
+      packing vehicle.[PV]Daihatsu_Hizet_SkyBlue
