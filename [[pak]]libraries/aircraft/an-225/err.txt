@@ -1,3 +1,16 @@
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
 writing file an225.pak
-   reading file ./an-225.dat
+   reading file an-225.dat
       packing vehicle.AntonovASTC_An-225(cargo)
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file an225_128.pak
+   reading file an-225_128.dat
+      packing vehicle.AntonovASTC_An-225(cargo)_128Test
