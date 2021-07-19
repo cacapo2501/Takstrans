@@ -280,3 +280,16 @@ writing file daihatsu_hizet.pak
       packing vehicle.[PV]Daihatsu_Hizet_Silver
       packing citycar.Daihatsu_Hizet_SkyBlue
       packing vehicle.[PV]Daihatsu_Hizet_SkyBlue
+
+Makeobj version 60.2 for Simutrans 120.4 and higher
+
+(c) 2002-2012 V. Meyer, Hj. Malthaner, M. Pristovsek & Simutrans development team
+
+writing file toyota_crown_rs2.pak
+   reading file toyota_crown_rs2.dat
+      packing citycar.Toyota_Crown_RS2_Black
+      packing vehicle.[PV]Toyota_Crown_RS2_Black
+      packing citycar.Toyota_Crown_RS2_Red
+      packing vehicle.[PV]Toyota_Crown_RS2_Red
+      packing citycar.Toyota_Crown_RS2_White
+      packing vehicle.[PV]Toyota_Crown_RS2_White

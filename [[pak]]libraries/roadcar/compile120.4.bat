@@ -22,4 +22,5 @@ makeobj62-0 pak nissan_silvia_s13.pak nissan_silvia_s13.dat >> err.txt
 makeobj62-0 pak mazda_cx-8.pak mazda_cx-8.dat >> err.txt
 makeobj62-0 pak daihatsu_move_la150s.pak daihatsu_move_la150s.dat >> err.txt
 makeobj62-0 pak daihatsu_hizet.pak daihatsu_hizet.dat >> err.txt
+makeobj62-0 pak toyota_crown_rs2.pak toyota_crown_rs2.dat >> err.txt
 pause
